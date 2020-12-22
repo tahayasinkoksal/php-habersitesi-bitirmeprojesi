@@ -5,6 +5,7 @@ Detaylı bilgi için bu belgeye göz atabiliriniz : <a href="https://github.com/
 <hr>
 <h3>Kurulum ve Bilgiler</h3>
 <br>
+-Proje klasöründeki admin/netting/<b>baglan.php</b> dosyasını kendi veritabanı bilgileriniz ile özelleştiriniz.<br>
 -Projeyi kurmak istediğiniz dizine kopyalayınız.<br>
 -Proje dizinindeki DB klasöründeki phphaber.sql dosyasını proje için oluşturduğunuz veritabanına (mysql) aktarınız.<br>
 -Yönetici giriş adresi: <b>domainadresi.com/admin</b>

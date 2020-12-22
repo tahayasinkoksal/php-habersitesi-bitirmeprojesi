@@ -1,4 +1,4 @@
-<h2>Php Bitirme Projesi</h2>
+<h2>Php Haber Sitesi Bitirme Projesi</h2>
 
 Detaylı bilgi için bu belgeye göz atabiliriniz : <a href="https://github.com/tahayasinkoksal/php-habersitesi-bitirmeprojesi/raw/master/Documentation.pdf">https://github.com/tahayasinkoksal/php-habersitesi-bitirmeprojesi/raw/master/Documentation.pdf</a><br>
 

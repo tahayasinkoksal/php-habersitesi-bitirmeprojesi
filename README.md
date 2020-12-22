@@ -26,4 +26,4 @@ Sitemde 2 farklı yetkide kullanıcı var. Bunlar yönetici ve yazar.<br>
 
 <b>Mail:</b> info@tahayasinkoksal.com.tr <br>
 <b>Web:</b> www.tahayasinkoksal.com.tr <br>
-<b>Instagram:</b> instagram.com/tahayasinkoksal
+<b>Instagram:</b> <a href="https://instagram.com/tahayasinkoksal">instagram.com/tahayasinkoksal</a>

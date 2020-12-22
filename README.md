@@ -7,7 +7,7 @@ Detaylı bilgi için bu belgeye göz atabiliriniz : <a href="https://github.com/
 <br>
 -Projeyi kurmak istediğiniz dizine kopyalayınız.<br>
 -Proje dizinindeki DB klasöründeki phphaber.sql dosyasını proje için oluşturduğunuz veritabanına (mysql) aktarınız.<br>
-
+-Yönetici giriş bağlantısı: <b>domainadresi.com/admin</b>
 <hr>
 
 <h3>Sisteme Giriş Bilgileri</h3>

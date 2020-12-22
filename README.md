@@ -20,6 +20,7 @@ Sitemde 2 farklı yetkide kullanıcı var. Bunlar yönetici ve yazar.<br>
 <b>Mail:</b>    yazar@yazar.com    -   <b>Parola:</b> 123123
 
 <br>
+<hr>
 <b>Contact</b><br>
 -----
 <b>Mail:</b> info@tahayasinkoksal.com.tr <br>
